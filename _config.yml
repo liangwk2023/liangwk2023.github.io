@@ -9,18 +9,18 @@
 title: HyG
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "https://liangwk2023.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username:
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
+facebook_username: 
+github_username:  liangwk2023
+email: liangwk2022@outlook.com
+weibo_username: 
+zhihu_username: 
+linkedIn_username: 
 dribbble_username:
 
 description_footer: 本站记录我前端之旅的沿途风景！
